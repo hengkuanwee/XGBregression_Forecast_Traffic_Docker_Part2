@@ -1,0 +1,1 @@
+{"Afternoon": 0, "Evening": 1, "Morning": 2, "Night": 3}

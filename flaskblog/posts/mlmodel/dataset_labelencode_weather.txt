@@ -1,0 +1,1 @@
+{"Clear": 0, "Clouds": 1, "Drizzle": 2, "Fog": 3, "Haze": 4, "Mist": 5, "Rain": 6, "Snow": 7, "Squall": 8, "Thunderstorm": 9}
